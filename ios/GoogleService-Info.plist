@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>804200370233-aak3ian98j6bgooidul2p7d1va918ogr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.804200370233-aak3ian98j6bgooidul2p7d1va918ogr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCxPDCdkAgLXAKZDMtk8CiNGBYB4PvA0zs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>804200370233</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.dartt.darttShop</string>
+	<key>PROJECT_ID</key>
+	<string>darttshop-bbe51</string>
+	<key>STORAGE_BUCKET</key>
+	<string>darttshop-bbe51.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:804200370233:ios:c0829ea16875244a0b7de8</string>
+</dict>
+</plist>

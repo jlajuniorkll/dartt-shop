@@ -1,4 +1,4 @@
-package br.com.dartt.shop.dartt_shop
+package br.com.dartt.darttShop
 
 import io.flutter.embedding.android.FlutterActivity
 
